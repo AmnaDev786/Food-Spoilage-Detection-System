@@ -5,6 +5,8 @@ This project is a **Food Spoilage Detection System** using **ESP32-CAM**. The ES
 ---
 
 ## Project Structure
+Add above files in following structure:
+```bash
 FoodSpoilageServer/
 │
 ├─ .venv/            # Python virtual environment
@@ -15,7 +17,7 @@ FoodSpoilageServer/
 ├─ README.md         # Project README
 ├─ requirements.txt  # Python dependencies
 └─ server.py         # Python server script
-
+```
 
 ---
 
@@ -40,3 +42,4 @@ FoodSpoilageServer/
    .venv\Scripts\activate      # Windows
    pip install -r requirements.txt
    python server.py
+```
