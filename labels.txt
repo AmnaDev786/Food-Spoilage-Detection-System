@@ -1,0 +1,6 @@
+0 Spoiled_Apples
+1 Slightly_Spoiled_Apples
+2 Fresh_Apples
+3 Spoiled_Banana
+4 Slightly_Spoiled_Banana
+5 Fresh_Banana
